@@ -8,10 +8,10 @@ digraph JupiterDependencyCheck {
 		MAC0101 [label=MAC0101 group=down shape=box start=true]
 	}
 	subgraph cluster_1 {
-		MAC0105 [label=MAC0105 fillcolor=orange group=down shape=box]
+		MAC0105 [label=MAC0105 group=down shape=box]
 	}
 	subgraph cluster_1 {
-		MAC0110 [label=MAC0110 group=down shape=box]
+		MAC0110 [label=MAC0110 fillcolor=orange group=down shape=box]
 	}
 	subgraph cluster_1 {
 		MAC0329 [label=MAC0329 group=down shape=box]
